@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "hercai": "^12.4.0",
+    "openai": "^4.77.3",
+    "unlimited-ai": "^2.0.2",
+    "moment-timezone": "^0.5.43",
+    "kleur": "^4.1.5"
+  }
+}
