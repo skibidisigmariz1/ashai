@@ -6,9 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    ashley,
+    maasim,
+    horny,
+    bot
+  ],
+  "author": "Mark",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^18.0.6",
     "axios": "^1.7.9",
